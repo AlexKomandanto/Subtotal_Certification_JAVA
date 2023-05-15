@@ -2,7 +2,7 @@
 ---
 ### Job information
 ---
-Includes an assignment:
+### Includes an assignment:
 * Linux - Run at the command line
 * Program in Java - You need to write a program to raffle toys in a children's goods store.
 
