@@ -3,8 +3,8 @@
 ### Job information
 ---
 Includes an assignment:
-Linux - Run at the command line
-Program in Java - You need to write a program to raffle toys in a children's goods store.
+* Linux - Run at the command line
+* Program in Java - You need to write a program to raffle toys in a children's goods store.
 
 ---
 
@@ -57,7 +57,7 @@ Program in Java - You need to write a program to raffle toys in a children's goo
     - Exit
 5. Implemented the custom menu :
 
-<image src="11.png">
+  <image src="11.png">
 
 7. The winners.txt file is created to record the processed commands
 
